@@ -12,10 +12,10 @@ The project will design a data system that will take the raw data, transform the
 
 ## ODS ER Diagram
 
-   ![ODS ER Diagram](/ods/ER_diagram.png)
+   ![ODS ER Diagram](/ODS/ER_diagram.png)
 
 ## Data Warehouse Star Schema Diagram
 
-    ![Data Warehouse Star Schema Diagram](/dwh/star_schema.png)
+    ![Data Warehouse Star Schema Diagram](/DWH/star_schema.png)
 
 
