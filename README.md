@@ -16,6 +16,6 @@ The project will design a data system that will take the raw data, transform the
 
 ## Data Warehouse Star Schema Diagram
 
-    ![Data Warehouse Star Schema Diagram](/DWH/star_schema.png)
+   ![Data Warehouse Star Schema Diagram](/DWH/star_schema.png)
 
 
